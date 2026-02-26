@@ -15,7 +15,8 @@
 
 ## 📦 All Versions
 
- &nbsp;⬡ [ovyo.agent.v1.0 (Latest)]()   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Pre-release)
+ &nbsp;⬡ [ovyo.agent.v1.0 (Latest)](https://github.com/SN7k/OvyoAgent/releases/tag/v1.0/Ovyo.Agent.Setup.v1.0.exe
+)           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Pre-release)
 <br>
 
 
